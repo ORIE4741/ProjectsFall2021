@@ -1,5 +1,6 @@
 # news-engaement
 Project With Matty(mjd358), Mina(mh859), and Jordan(jsa242)
+[Repository](https://github.com/JordanAle/news-engaement)
 
 Proposal Draft:
 
